@@ -24,3 +24,28 @@ button {
   padding: 3px;
   border-radius: 3px 0px;
 }
+#pDiv {
+  margin: 25px;
+  padding: 20px;
+  text-align: center;
+}
+.divMakeup2 {
+  height: 400px;
+  width: 900px;
+  padding: 30px;
+  background-image: url(../Images/1683707126171.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  opacity: 90%;
+  display: inline-block;
+  border-radius: 5px 5px 25px 5px;
+  color: azure;
+  border: 3px solid skyblue;
+  box-shadow: 3px 3px 8px #000;
+  line-height: 1.6em;
+}
+p {
+  text-align: center;
+  margin: 10px;
+}
