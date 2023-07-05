@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.divMakeup {
+  height: 250px;
+  width: 900px;
+  background-color: skyblue;
+  border-left: 6px dotted white;
+  border-radius: 0px 5px 30px 0px;
+  box-shadow: 3px 3px 8px skyblue;
+  display: inline-block;
+  padding: 0px 25px;
+}
+.divH1 {
+  text-decoration: underline;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+button {
+  color: white;
+  background-color: #afafaf;
+  border: 1px dotted white;
+  padding: 3px;
+  border-radius: 3px 0px;
+}
